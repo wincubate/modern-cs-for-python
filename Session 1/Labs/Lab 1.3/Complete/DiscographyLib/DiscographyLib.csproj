@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>ModernCS.Labs1_3.DiscographyLib</AssemblyName>
+    <RootNamespace>ModernCS.Labs1_3.DiscographyLib</RootNamespace>
+  </PropertyGroup>
+
+</Project>
