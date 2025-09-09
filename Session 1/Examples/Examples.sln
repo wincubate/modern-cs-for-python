@@ -29,18 +29,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - Optional and Named", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - Local Methods", "1.5 Methods\06 - Local Methods\06 - Local Methods.csproj", "{6F28AD9F-CA24-65F5-2FAF-5C34C1B47E11}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.7 Exceptions", "1.7 Exceptions", "{2D43FF98-9F4C-4B69-9386-75B6E2033D18}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Try-Catch-Finally", "1.7 Exceptions\01 - Try-Catch-Finally\01 - Try-Catch-Finally.csproj", "{B200F339-6808-3825-CFC3-C79F3252D1B8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - Throw Begin", "1.7 Exceptions\02 - Throw Begin\02 - Throw Begin.csproj", "{9254D7A4-8DA5-ADD3-D6A9-74E2A6E3D6FD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - Throw Complete", "1.7 Exceptions\02 - Throw Complete\02 - Throw Complete.csproj", "{6F6C026A-4086-90B8-13DE-632F68F05210}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - Exception Filter Begin", "1.7 Exceptions\03 - Exception Filter Begin\03 - Exception Filter Begin.csproj", "{4493AD50-EA76-57C9-11DF-2F65C6F8F7B6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - Exception Filter Complete", "1.7 Exceptions\03 - Exception Filter Complete\03 - Exception Filter Complete.csproj", "{D53B6825-4AD2-871D-2094-42EB752FA56E}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.3 Types", "1.3 Types", "{93DD48E7-90AA-4534-9790-EFDBE112052F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2 Hello, World", "1.2 Hello, World", "{5A47215C-1B2F-4FF1-BECB-A59AA477EAA0}"
@@ -86,24 +74,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 - Static Members", "1.6 Classes\08 - Static Members\08 - Static Members.csproj", "{52F3962F-6366-09B3-0E01-0D0954D2C4AF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - Static Members and Extension Methods", "1.6 Classes\09 - Static Members and Extension Methods\09 - Static Members and Extension Methods.csproj", "{22BFD05D-18B6-EC2C-81B0-18CE114E8AF1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - Inheritance Begin", "1.6 Classes\10 - Inheritance Begin\10 - Inheritance Begin.csproj", "{1CEF1AFE-C98F-60B4-09CF-D6F59CA7C975}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - Inheritance Complete", "1.6 Classes\10 - Inheritance Complete\10 - Inheritance Complete.csproj", "{4CF1850E-5848-E381-CCF5-1C92F24B4BFD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - Base and Protected Begin", "1.6 Classes\11 - Base and Protected Begin\11 - Base and Protected Begin.csproj", "{9A2ED055-D89E-6B73-A37A-7CB8A27B7902}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - Base and Protected Complete", "1.6 Classes\11 - Base and Protected Complete\11 - Base and Protected Complete.csproj", "{DBD5C69E-202E-1450-8239-A1B8808C4845}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 - Overriding", "1.6 Classes\12 - Overriding\12 - Overriding.csproj", "{31AC2495-EB9A-585A-88A0-A0B64F4DA258}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 - Controlling Inheritance", "1.6 Classes\13 - Controlling Inheritance\13 - Controlling Inheritance.csproj", "{BB4A4842-0066-7BFD-019C-FC4FA7371822}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.8 Structs", "1.8 Structs", "{B024C5C4-7E79-49EB-886B-9C97AF3E53EB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Structs Begin", "1.8 Structs\01 - Structs Begin\01 - Structs Begin.csproj", "{3D2BC492-98D4-B0AD-B119-E967A7E705A0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Structs Complete", "1.8 Structs\01 - Structs Complete\01 - Structs Complete.csproj", "{68F84567-DF71-1734-85ED-3E7FD1863768}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
