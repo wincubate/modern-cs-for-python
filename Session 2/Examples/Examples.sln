@@ -115,32 +115,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - Spread Operator Begin"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - Spread Operator Complete", "2.6 Collections\09 - Spread Operator Complete\09 - Spread Operator Complete.csproj", "{8D1A4C54-36A8-39A3-8EA1-483FB1D47FFF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.7 Lambdas", "2.7 Lambdas", "{351EE6B2-85A8-425D-B689-978D2233414E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Delegates Begin", "2.7 Lambdas\01 - Delegates Begin\01 - Delegates Begin.csproj", "{F04FE0D3-6909-2626-A2C0-58D9EB4BA9F2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Delegates Complete", "2.7 Lambdas\01 - Delegates Complete\01 - Delegates Complete.csproj", "{E3C50E87-720A-50C2-14C3-EA819FAFFE7E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - Multicasting", "2.7 Lambdas\02 - Multicasting\02 - Multicasting.csproj", "{DD67E496-B2F4-BBA7-7A80-E4CE70742CEE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - Generic Delegates", "2.7 Lambdas\03 - Generic Delegates\03 - Generic Delegates.csproj", "{39272EE1-4CE9-76D6-CE86-21F663E4EB82}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - Func and Action", "2.7 Lambdas\04 - Func and Action\04 - Func and Action.csproj", "{0E178156-9850-CF08-5353-A006C82AE93C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - Anonymous Methods", "2.7 Lambdas\05 - Anonymous Methods\05 - Anonymous Methods.csproj", "{874B097A-FA20-FB78-58F8-575767F87BA0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - Capturing Local Variables", "2.7 Lambdas\06 - Capturing Local Variables\06 - Capturing Local Variables.csproj", "{478323D9-EDEC-91CF-7F1F-7014AE385E78}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 - Lambda Expressions", "2.7 Lambdas\07 - Lambda Expressions\07 - Lambda Expressions.csproj", "{B17C6BC2-09A8-225D-912D-1391AA689F7E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 - Lambda Variations", "2.7 Lambdas\08 - Lambda Variations\08 - Lambda Variations.csproj", "{5E55EB81-74A3-6E6D-C118-2A92FF15368D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - Expression-bodied Members", "2.7 Lambdas\09 - Expression-bodied Members\09 - Expression-bodied Members.csproj", "{8ADB5DC7-86DC-3221-A48C-8E720443FA54}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - More Expression-bodied Members", "2.7 Lambdas\10 - More Expression-bodied Members\10 - More Expression-bodied Members.csproj", "{88C22B52-BD66-B92F-9905-C3E5C2D9AA18}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - Throw Expressions", "2.7 Lambdas\11 - Throw Expressions\11 - Throw Expressions.csproj", "{FCFB5E17-4293-B5F5-6802-ED7B616DEED9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 - Value Type Constraint", "2.4 Generics\07 - Value Type Constraint\07 - Value Type Constraint.csproj", "{490248EF-1639-B08B-B547-736CEF133D15}"
 EndProject
 Global
