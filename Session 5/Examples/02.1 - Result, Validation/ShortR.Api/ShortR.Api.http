@@ -1,0 +1,15 @@
+@host = https://localhost
+@port = 7044
+
+POST {{host}}:{{port}}/shorten
+Content-Type: application/json
+Accept-Language: en-US,en;q=0.5
+
+{
+    "code": "falcon",
+    "longUrl": "https://www.lego.com/en-dk/product/millennium-falcon-75192"
+}
+
+###
+
+GET https://localhost:7044/goto/falcon

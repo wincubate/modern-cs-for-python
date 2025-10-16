@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShortR.Application\ShortR.Application.csproj" />
+    <ProjectReference Include="..\ShortR.Contracts\ShortR.Contracts.csproj" />
+    <ProjectReference Include="..\ShortR.Infrastructure\ShortR.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
